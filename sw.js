@@ -1,17 +1,17 @@
-const CACHE_NAME = 'love-music-v1';
+const CACHE_NAME = 'app1-v1';
 const ASSETS_TO_CACHE = [
-  '/',
-  '/index.html',
-  '/index.css',
-  '/app.js',
-  '/script-sw.js',
-  '/fonts/roboto-regular.ttf',
-  '/icons/icon192.png',
-  '/icons/icon512.png',
-  '/controls/play.svg',
-  '/controls/pause.svg',
-  '/controls/next.svg',
-  '/controls/prev.svg'
+  './',
+  './index.html',
+  './index.css',
+  './app.js',
+  './script-sw.js',
+  './fonts/roboto-regular.ttf',
+  './icons/icon192.png',
+  './icons/icon512.png',
+  './controls/play.svg',
+  './controls/pause.svg',
+  './controls/next.svg',
+  './controls/prev.svg'
 ];
 
 // Instala e pré-cacheia os arquivos essenciais
